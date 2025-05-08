@@ -6,9 +6,9 @@
 
 Lorsque vous débutez un projet Python, une des premières questions à se poser est la suivante :
 
-> *Comment puis-je m'assurer que ce projet sera propre, stable, reproductible, et indépendant des autres projets Python sur mon ordinateur ?*
+> ✏️ Comment puis-je m'assurer que ce projet sera propre, stable, reproductible, et indépendant des autres projets Python sur mon ordinateur ?*
 
-La réponse : **utiliser un environnement virtuel.**
+La réponse c'est **d'utiliser un environnement virtuel.**
 
 ### Qu'est-ce qu'un environnement virtuel ?
 
