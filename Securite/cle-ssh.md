@@ -105,15 +105,27 @@ Copiez le **contenu complet**, puis :
 
 1. Connectez-vous à https://github.com
 
-2. Allez dans : Settings → SSH and GPG keys
+<img width="680" alt="Capture d’écran 2025-05-08 à 22 33 38" src="https://github.com/user-attachments/assets/5e770f78-497d-4d31-9ced-00fdb56258bf" />
 
-3. Cliquez sur New SSH key
+2. Allez dans : Settings
 
-4. Donnez-lui un nom (ex : MacBook de Mathieu)
+<img width="201" alt="Capture d’écran 2025-05-08 à 22 34 29" src="https://github.com/user-attachments/assets/22b6da2d-8729-4204-94dd-102c82573761" />
 
-5. Collez la clé dans la zone prévue
+3. Puis SSH and GPG keys
 
-6. Cliquez sur Add SSH key
+<img width="201" alt="Capture d’écran 2025-05-08 à 22 35 22" src="https://github.com/user-attachments/assets/8bc084aa-1d77-43a2-a233-a8bb739a0979" />
+
+4. Cliquez sur New SSH key
+
+<img width="572" alt="Capture d’écran 2025-05-08 à 22 36 00" src="https://github.com/user-attachments/assets/6ef3a53e-14b4-4376-a8a8-5a3188a9e382" />
+
+6. Donnez-lui un nom (ex : MacBook de Mathieu)
+
+<img width="590" alt="Capture d’écran 2025-05-08 à 22 36 27" src="https://github.com/user-attachments/assets/d2c4e3b3-a4f2-4c67-a2c1-cf82d2175a96" />
+
+7. Collez la clé dans la zone prévue
+
+8. Cliquez sur Add SSH key
 
 ### 5. Tester la connexion
 
@@ -166,4 +178,4 @@ Vous êtes désormais capable de :
 
 - Travailler sans entrer votre mot de passe à chaque push ou pull
 
-Bon développement sécurisé !
+Bon développement !
