@@ -1,8 +1,6 @@
-# Comprendre et utiliser les environnements virtuels en Python – Guide pédagogique complet
+![ChatGPT Image 8 mai 2025 à 19_19_17](https://github.com/user-attachments/assets/6c358dc2-ed41-43d6-b068-522896fa148e)
 
 > Un guide pas-à-pas pour bien débuter avec `venv`, `pip`, et la gestion des dépendances en Python.
-
----
 
 ## 📘 Introduction
 
@@ -20,8 +18,6 @@ Un environnement virtuel, ou *virtual environment* en anglais, est un **espace d
 - Partager un projet avec ses dépendances facilement grâce à un fichier de configuration.
 
 En d'autres termes, un environnement virtuel permet d'avoir une bulle Python locale qui vous appartient, propre à chaque projet.
-
----
 
 ## 🧠 Pourquoi est-ce si important ?
 
@@ -44,16 +40,12 @@ Avec un `venv`, chaque projet a sa propre version, sans conflit.
 
 > ✏️ **Remarque :** L'environnement virtuel est l'équivalent Python de ce que sont les environnements `node_modules` en JavaScript (Node.js).
 
----
-
 ## 🧰 Historique et outils existants
 
 Avant Python 3.3, la gestion des environnements virtuels passait par des outils externes comme `virtualenv`.  
 Depuis Python 3.3, une commande intégrée dans la bibliothèque standard est disponible : **`venv`**.
 
 Cela signifie que vous n'avez **rien à installer** pour commencer à créer des environnements virtuels — tout est déjà prêt dans Python lui-même.
-
----
 
 ## ⚙️ Mise en place d'un environnement virtuel
 
@@ -95,7 +87,7 @@ Avant de pouvoir utiliser le venv, vous devez l'activer.
 
 Une fois activé, vous verrez quelque chose comme ceci dans votre terminal :
 
-# IMAGE A METTRE VENV
+<img width="730" alt="Capture d’écran 2025-05-08 à 18 48 13" src="https://github.com/user-attachments/assets/d472cd0b-d9db-49c2-b285-4ff7100b757d" />
 
 Ce `(env)` au début de la ligne confirme que vous êtes **dans l'environnement virtuel**.
 
@@ -141,7 +133,7 @@ python3 test_venv_fun.py
 
 Si tout se passe bien, vous devriez voir apparaître :
 
-# IMAGE HELLO VENV
+<img width="737" alt="Capture d’écran 2025-05-08 à 18 09 12" src="https://github.com/user-attachments/assets/bfde798c-7a2c-48de-a253-557fc45a8bfc" />
 
 ## 📋 Le fichier requirements.txt
 Le fichier `requirements.txt` est **un élément clé dans la gestion de projet Python**.
@@ -163,7 +155,7 @@ Cela génère un fichier contenant les bibliothèques **actuellement installées
 
 ### Exemple de contenu :
 
-# IMAGE TXT
+<img width="430" alt="Capture d’écran 2025-05-08 à 18 12 28" src="https://github.com/user-attachments/assets/1a5384be-ffea-4fa1-bc70-501a51d6b803" />
 
 > 📌 Vous pouvez maintenant partager ce fichier. Toute personne pourra recréer votre environnement avec :
 
