@@ -217,6 +217,11 @@ VS Code détecte automatiquement les environnements virtuels. Pour en profiter :
 - [Guide pip](https://pip.pypa.io/en/stable/)
 - [Python Packaging User Guide](https://packaging.python.org/)
 
+Si vous rencontrez des difficultés :
+
+- Consultez la [documentation officielle Python](https://docs.python.org/fr/3/)
+- Rejoignez la [communauté Python francophone](https://www.afpy.org/)
+
 ## 🎯 Conclusion
 
 L'utilisation des environnements virtuels est une compétence fondamentale pour tout développeur Python. En suivant ce guide, vous avez appris :
@@ -225,13 +230,6 @@ L'utilisation des environnements virtuels est une compétence fondamentale pour 
 - La création et la gestion d'environnements virtuels
 - Les bonnes pratiques de gestion des dépendances
 - L'utilisation efficace de `pip` et `requirements.txt`
-
-### 🤝 Besoin d'aide ?
-
-Si vous rencontrez des difficultés :
-- Consultez la [documentation officielle Python](https://docs.python.org/fr/3/)
-- Rejoignez la [communauté Python francophone](https://www.afpy.org/)
-- Posez vos questions sur [Stack Overflow en français](https://fr.stackoverflow.com/questions/tagged/python)
 
 > 💡 **Rappel important** : Un bon environnement virtuel est la base d'un projet Python réussi !
 
