@@ -87,7 +87,7 @@ Avant de pouvoir utiliser le venv, vous devez l'activer.
 
 Une fois activé, vous verrez quelque chose comme ceci dans votre terminal :
 
-<img width="730" alt="Capture d’écran 2025-05-08 à 18 48 13" src="https://github.com/user-attachments/assets/d472cd0b-d9db-49c2-b285-4ff7100b757d" />
+<img width="730" alt="Capture d'écran 2025-05-08 à 18 48 13" src="https://github.com/user-attachments/assets/d472cd0b-d9db-49c2-b285-4ff7100b757d" />
 
 Ce `(env)` au début de la ligne confirme que vous êtes **dans l'environnement virtuel**.
 
@@ -133,7 +133,7 @@ python3 test_venv_fun.py
 
 Si tout se passe bien, vous devriez voir apparaître :
 
-<img width="737" alt="Capture d’écran 2025-05-08 à 18 09 12" src="https://github.com/user-attachments/assets/bfde798c-7a2c-48de-a253-557fc45a8bfc" />
+<img width="737" alt="Capture d'écran 2025-05-08 à 18 09 12" src="https://github.com/user-attachments/assets/bfde798c-7a2c-48de-a253-557fc45a8bfc" />
 
 ## 📋 Le fichier requirements.txt
 Le fichier `requirements.txt` est **un élément clé dans la gestion de projet Python**.
@@ -155,7 +155,7 @@ Cela génère un fichier contenant les bibliothèques **actuellement installées
 
 ### Exemple de contenu :
 
-<img width="430" alt="Capture d’écran 2025-05-08 à 18 12 28" src="https://github.com/user-attachments/assets/1a5384be-ffea-4fa1-bc70-501a51d6b803" />
+<img width="430" alt="Capture d'écran 2025-05-08 à 18 12 28" src="https://github.com/user-attachments/assets/1a5384be-ffea-4fa1-bc70-501a51d6b803" />
 
 > 📌 Vous pouvez maintenant partager ce fichier. Toute personne pourra recréer votre environnement avec :
 
@@ -217,5 +217,26 @@ VS Code détecte automatiquement les environnements virtuels. Pour en profiter :
 - [Guide pip](https://pip.pypa.io/en/stable/)
 - [Python Packaging User Guide](https://packaging.python.org/)
 
+## 🎯 Conclusion
 
-> #### 🌟 **Félicitations !** Vous maîtrisez maintenant les bases des environnements virtuels Python. Bon développement !
+L'utilisation des environnements virtuels est une compétence fondamentale pour tout développeur Python. En suivant ce guide, vous avez appris :
+
+- L'importance de l'isolation des projets
+- La création et la gestion d'environnements virtuels
+- Les bonnes pratiques de gestion des dépendances
+- L'utilisation efficace de `pip` et `requirements.txt`
+
+### 🤝 Besoin d'aide ?
+
+Si vous rencontrez des difficultés :
+- Consultez la [documentation officielle Python](https://docs.python.org/fr/3/)
+- Rejoignez la [communauté Python francophone](https://www.afpy.org/)
+- Posez vos questions sur [Stack Overflow en français](https://fr.stackoverflow.com/questions/tagged/python)
+
+> 💡 **Rappel important** : Un bon environnement virtuel est la base d'un projet Python réussi !
+
+## ✍️ Author
+
+**Mathieu MOREL**. 🔗 [Linkedin](https://www.linkedin.com/in/mathieumorel62/)
+
+📍 Lille · 👨‍💻 Développeur Fullstack · 💼 Freelance · 👨‍🏫 Coach Technique chez [Holberton School](https://www.holbertonschool.fr/?utm_campaign=MV-Pmax&utm_medium=cpc&utm_source=google)
