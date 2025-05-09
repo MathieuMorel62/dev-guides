@@ -1,4 +1,4 @@
-# Comprendre et utiliser les clés SSH
+![Image 8 mai 2025 à 23_34_20](https://github.com/user-attachments/assets/83ac2b72-35ba-4ec2-a2e2-f855a3b3815f)
 
 > Un guide pas-à-pas pour générer, configurer et utiliser une clé SSH pour travailler efficacement avec GitHub sans jamais retaper son mot de passe, et en toute sécurité.
 
@@ -180,19 +180,30 @@ ssh-ed25519 AAAAC3Nz... votre.email@example.com
 
 2. **Aller dans GitHub**
 
-- Connectez-vous à GitHub
+- Connectez-vous à [GitHub](https://github.com)
+
+  <img width="100%" alt="Capture d’écran 2025-05-08 à 22 33 38" src="https://github.com/user-attachments/assets/710cb31e-eb39-4738-8b83-133ef9988a6c" />
 
 - Cliquez sur votre photo > `Settings`
 
+  <img width="30%" alt="Capture d’écran 2025-05-08 à 22 34 29" src="https://github.com/user-attachments/assets/93aded05-69ca-4a5b-b6e9-24f63d57d911" />
+
 - Menu gauche → `SSH and GPG keys`
 
+  <img width="30%" alt="Capture d’écran 2025-05-08 à 22 35 22" src="https://github.com/user-attachments/assets/78b4b433-64a1-4fa7-8d93-d98e2d06474e" />
+
 - Cliquez sur **"New SSH key"**
+
+  <img width="100%" alt="Capture d’écran 2025-05-08 à 22 36 00" src="https://github.com/user-attachments/assets/b77a60bf-b504-4c17-85f1-1e9cc94133db" />
 
 - **Title** : nom de votre machine (ex. “MacBook Pro perso”)
 
 - **Key** : collez votre clé publique
 
 - Cliquez sur **Add SSH key**
+
+  <img width="80%" alt="Capture d’écran 2025-05-08 à 22 36 27" src="https://github.com/user-attachments/assets/dd7da1de-7614-46b1-a6e2-34dcbcd104f6" />
+
 
 ### 🧪 Étape 6 – Tester la connexion SSH
 
